@@ -1,32 +1,36 @@
-# Choose Your Skip
+# ♻️ Choose Your Skip
 
-A frontend coding challenge to redesign the 'Choose Your Skip Size' page using Vite, React, TypeScript, and Tailwind CSS.
+A responsive and modern redesign of the **"Choose Your Skip Size"** page built using **React**, **TypeScript**, **Vite**, and **Tailwind CSS**.
+
+> 🔧 A frontend coding challenge project for **We Want Waste**.
+
+---
 
 ## 🚀 Tech Stack
-- Vite
-- React
-- TypeScript
-- Tailwind CSS
-- react-hot-toast
+
+- ⚡️ [Vite](https://vitejs.dev/) — Lightning-fast development environment  
+- ⚛️ [React](https://reactjs.org/) — Component-based UI library  
+- 🧠 [TypeScript](https://www.typescriptlang.org/) — Typed JavaScript  
+- 🎨 [Tailwind CSS](https://tailwindcss.com/) — Utility-first CSS framework  
+- 🔔 [react-hot-toast](https://react-hot-toast.com/) — Toast notifications  
+
+---
 
 ## ✅ Features
-- Responsive grid layout
-- Skip cards with dynamic data
-- Toast notification on skip selection
-- Sticky bottom summary bar
-- API integration using postcode `NR32`
 
+- 📱 **Responsive Design** — Works across devices with a clean grid layout  
+- 📦 **Dynamic Skip Cards** — Data fetched from live skip API using postcode `NR32`  
+- 🔔 **Toast Notifications** — Instant feedback on skip selection  
+- 📌 **Sticky Summary Bar** — Displays selected skip with persistent UI  
+- ⚙️ **API Integration** — Fully integrated with provided data endpoint  
+
+---
 
 ## 📦 How to Run Locally
+
 ```bash
+# Install dependencies
 npm install
+
+# Start the development server
 npm run dev
-
-
-
-
-![Screenshot (517)](https://github.com/user-attachments/assets/03a35f2b-b275-4425-905b-d691cc717d96)
-
-
-![Screenshot (518)](https://github.com/user-attachments/assets/9b778ee7-0956-4f5c-a08f-52e9e4da2f6c)
-
